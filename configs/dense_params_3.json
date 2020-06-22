@@ -1,0 +1,11 @@
+{
+	"n_blocks": 4,
+	"n_pool": "max",
+	"n_pool_size": [2,2],
+	"n_dropout": 0.3,
+	"n_l2": 0.0005,
+	"n_init": "glorot_normal",
+	"n_batch_norm": true,
+	"n_seed": 0,
+	"output_layer_name": "output_gesture"
+}

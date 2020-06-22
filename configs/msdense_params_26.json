@@ -1,0 +1,13 @@
+{
+	"n_blocks": 3,
+	"n_scales": [2, 2],
+	"n_outputs": [1,2,3],
+	"n_dropout": 0.3,
+	"n_l2": 0.0005,
+	"n_init": "glorot_normal",
+	"n_batch_norm": true,
+	"n_classifier": "average",
+	"n_classifier_type": "3_conv",
+	"n_seed": 0,
+	"output_layer_name": "output_gesture"
+}

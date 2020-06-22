@@ -1,0 +1,8 @@
+{
+	"n_pool": "average",
+	"n_l2": 0.0005,
+	"n_dropout": 0.0,
+	"n_init": "glorot_normal",
+	"n_seed": 0,
+	"output_layer_name": "output_gesture"
+}
