@@ -9,6 +9,9 @@ In this paper, we utilize the Hilbert space-filling curve for the generation of 
 The proposed method is evaluated on different state-of-the-art network architectures and yields a significant classification improvement over the approach without the Hilbert curve.
 Additionally, we develop a new network architecture (MSHilbNet) that takes advantage of multiple scales of an initial Hilbert curve representation and achieves equal performance with fewer convolutional layers.
 
+![MSHilbNet](imgs/mshilbnet.png)
+
+
 ## Code Dependecies
 The following python packages are needed to run the code:
 - tensorflow
