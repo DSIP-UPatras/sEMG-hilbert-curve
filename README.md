@@ -1,5 +1,5 @@
-# Hilbert sEMG data scanning for hand gesture recognition based on Deep Learning
-Accompaniment code for the manuscript 'Hilbert sEMG data scanning for hand gesture recognition based on Deep Learning' published in Springer Neural Computing and Applications (NCAA) [DOI: 10.1007/s00521-020-05128-7](www.doi.org/10.1007/s00521-020-05128-7).
+# Hilbert sEMG data scanning for hand gesture recognition based on deep learning
+Accompaniment code for the manuscript 'Hilbert sEMG data scanning for hand gesture recognition based on deep learning' published in Springer Neural Computing and Applications (NCAA) [DOI: 10.1007/s00521-020-05128-7](https://www.doi.org/10.1007/s00521-020-05128-7).
 
 ## Abstract
 Deep learning has transformed the field of data analysis by dramatically improving the state of the art in various classification and prediction tasks, especially in the area of computer vision.
@@ -26,7 +26,7 @@ To replicate the experiments described in the paper run: `bash run.sh`.
 Before running the code, the Ninapro-DB1 dataset should be downloaded from [link](http://ninaweb.hevs.ch/).
 
 ## License
-If this code helps your research, please cite the [paper]().
+If this code helps your research, please cite the [paper](https://www.doi.org/10.1007/s00521-020-05128-7).
 
 ```
 @article{Tsinganos2020,
@@ -34,9 +34,6 @@ author = {Tsinganos, Panagiotis and Cornelis, Bruno and Cornelis, Jan and Jansen
 doi = {10.1007/s00521-020-05128-7},
 journal = {Neural Computing and Applications},
 month = {jul},
-number = {},
-pages = {},
-volume = {},
 publisher = {Springer},
 title = {Hilbert sEMG data scanning for hand gesture recognition based on Deep Learning},
 year = {2020}
